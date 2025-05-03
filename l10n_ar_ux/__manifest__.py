@@ -17,7 +17,7 @@
         'wizards/account_move_change_rate_views.xml',
         'views/portal_templates.xml',
         'views/account_move_view.xml',
-        # 'views/res_partner_view.xml',
+        'views/res_partner_view.xml',
         'views/afip_concept_view.xml',
         'views/afip_activity_view.xml',
         'views/afip_tax_view.xml',
